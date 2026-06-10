@@ -14,4 +14,5 @@ http.createServer((req, res)=>{
         res.write(data)
         res.end()
     })
+    
 }).listen(2200)

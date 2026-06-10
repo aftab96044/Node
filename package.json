@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node js tutorials",
+  "homepage": "https://github.com/aftab96044/Node#readme",
+  "bugs": {
+    "url": "https://github.com/aftab96044/Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aftab96044/Node.git"
+  },
+  "license": "ISC",
+  "author": "aftab",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.14"
+  }
+}
